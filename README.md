@@ -1,2 +1,2 @@
-# Robot_car_moving_forward
-Code for a robot car to move forward and display the timer on the LCD
+# Robot_Car_Codes
+Code for a robot car to execute different functions
